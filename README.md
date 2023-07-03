@@ -6,7 +6,7 @@
 ```bash
 git clone https://github.com/Furyforev3r/Wilbur-Lyrics-BOT.git
 ```
-## 📁 | Requiriments
+## 📁 | Requirements
 + **Python/Pip (and dependencies)**
 ### Install dependencies:
 ```bash
