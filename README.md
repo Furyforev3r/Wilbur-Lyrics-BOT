@@ -4,7 +4,7 @@
 # 📥 | Installation
 **Clone the repository (or download manually):**
 ```bash
-git clone https://github.com/Furyforev3r/Wilbur-Lyrics-BOT
+git clone https://github.com/Furyforev3r/Wilbur-Lyrics-BOT.git
 ```
 ## 📁 | Requiriments
 + **Python/Pip (and dependencies)**
