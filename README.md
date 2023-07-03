@@ -4,7 +4,7 @@
 # 📥 | Installation
 **Clone the repository (or download manually):**
 ```bash
-git clone https://github.com/Furyforev3r/Youtube-Downloader-ExpressJS.git
+git clone https://github.com/Furyforev3r/Wilbur-Lyrics-BOT
 ```
 ## 📁 | Requiriments
 + **Python/Pip (and dependencies)**
