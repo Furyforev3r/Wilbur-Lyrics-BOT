@@ -1,4 +1,4 @@
-musics = {
+songs = {
     "iiwae": {
         "title": "I'm in love with an Egirl.",
         "lyrics": [
